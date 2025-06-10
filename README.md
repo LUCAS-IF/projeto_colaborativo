@@ -1,6 +1,6 @@
 # projeto_colaborativo
 
-Este é um projeto criado com o objetivo de praticar o uso do Git e GitHub em um ambiente colaborativo. Ele faz parte de uma atividade de Prática e Ferramentas de Desenvolvimento de Software e visa ensinar conceitos como versionamento, branches, pull requests, resolução de conflitos e trabalho em equipe.
+Este é um projeto criado com o objetivo de praticar o uso do Git e GitHub em um ambiente colaborativo. Ele faz parte de uma atividade de Práticas e Ferramentas de Desenvolvimento de Software e visa ensinar conceitos como versionamento, branches, pull requests, resolução de conflitos e trabalho em equipe.
 
 ##  Objetivos do Projeto
 
