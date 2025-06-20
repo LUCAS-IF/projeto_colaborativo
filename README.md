@@ -1,4 +1,4 @@
-# projeto_colaborativo
+# Projeto_colaborativo_em_dupla
 
 Este é um projeto criado com o objetivo de praticar o uso do Git e GitHub em um ambiente colaborativo. Ele faz parte de uma atividade de Práticas e Ferramentas de Desenvolvimento de Software e visa ensinar conceitos como versionamento, branches, pull requests, resolução de conflitos e trabalho em equipe.
 
@@ -9,3 +9,8 @@ Este é um projeto criado com o objetivo de praticar o uso do Git e GitHub em um
 - Aprender a resolver conflitos de merge.
 - Usar a aba de Issues para gerenciar tarefas e problemas.
 - Compreender o fluxo de trabalho com forks e contribuições externas.
+
+## Participantes 
+
+- Lucas S. Viana
+- Renan Martins Ferreira
