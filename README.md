@@ -11,5 +11,5 @@ Este é um projeto criado com o objetivo de praticar o uso do Git e GitHub em um
 - Compreender o fluxo de trabalho com forks e contribuições externas.
 
 # Participantes
-Renan
-Lucas
+Renan Martins Ferreira
+Lucas S. Viana
